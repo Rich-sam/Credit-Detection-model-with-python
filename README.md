@@ -1,0 +1,2 @@
+# Credit-Detection-model-with-python
+Machine learning algorithms are being developed in the financial industry, to identify fraudulent transactions. This is just what we are trying to do in this project as well. Using a dataset of almost 28,500 credit card transactions and several unsupervised anomaly detection algorithms, we will identify transactions that are highly likely to be credit card frauds. We 're designing and implementing the following two machine learning algorithms in this project: 1.Local Outlier Factor (LOF) 2.Isolation Forest Algorithm
